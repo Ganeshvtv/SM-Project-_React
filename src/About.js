@@ -1,8 +1,10 @@
-import React from 'react'
-
 const About = () => {
   return (
-    <main>About</main>
+      <main className='About'>
+          <h2>About</h2>
+          <p style={{ marginTop: "1rem" }}>
+          Hi This is Ganesh. I develop this social media app</p>
+      </main>
   )
 }
 
