@@ -1,3 +1,8 @@
+# Deployed link 
+
+[https://socialmediaproj.netlify.app] running in server so, if we change  the data into local strorage it will work in every systems
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
